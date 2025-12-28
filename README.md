@@ -1,1 +1,1 @@
-# git_practice_conflict_practice
+# git_conflict_practice
